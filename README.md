@@ -6,12 +6,14 @@ instruction
 1. referral link for DigitalOcean<br>
 https://m.do.co/c/25a7f93236fc
 
-2. upload file to server<br>
+2. create server Debian
+
+3. upload file to server<br>
 wget https://raw.githubusercontent.com/hensly/socks5/master/proxy.py
 
-3. run <br>
+4. run <br>
 python proxy.py
 
-4. type your password for proxy
+5. type your password for proxy
 
-5. wait for the installation to complete
+6. wait for the installation to complete
