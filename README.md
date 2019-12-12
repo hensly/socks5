@@ -7,7 +7,7 @@ instruction
 https://m.do.co/c/25a7f93236fc
 
 2. upload file to server<br>
-wget https://github.com/hensly/socks5/blob/master/proxy.py
+wget https://raw.githubusercontent.com/hensly/socks5/master/proxy.py
 
 3. run <br>
 python proxy.py
